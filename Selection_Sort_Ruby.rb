@@ -1,4 +1,4 @@
-require 'C:\Users\hroch\Documents\GitHub\SortingAlgorithms\Fill_List_Ruby'
+require_relative 'Fill_List_Ruby'
 list = Array.new
 Fill_List(list)
 
